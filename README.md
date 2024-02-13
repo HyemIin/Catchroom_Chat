@@ -10,6 +10,10 @@
 
 </div>
 
+## 📽️ 프로젝트 영상
+
+https://github.com/catchroom/BE_Chat/assets/59862752/bb7011ac-e58a-4151-8b17-8fa8bc76e525
+
 <br><br>
 
 ## 🏗 아키텍처 
@@ -17,13 +21,13 @@
 <img width = "1600" alt = "image" src = "https://github.com/catchroom/BE_Chat/assets/59862752/ba80c9a5-fb49-484c-953f-b2c31850bf9b">
 
 
-<br><br><br>
+<br><br>
 
 ## 🎢 메인 Repo
 
 - [백엔드 메인 서버 Repo](https://github.com/catchroom/BE_Catchroom)
 
-<br><br><br>
+<br><br>
 
 ## 📹 서비스 스크린샷 
 
@@ -38,7 +42,6 @@
 
 
 ## ⭐️ 핵심 기능
-
 
 ### 채팅
 
@@ -86,11 +89,7 @@
 
 <br>
 
-## 📽️ 프로젝트 영상
 
-
-
-https://github.com/catchroom/BE_Chat/assets/59862752/bb7011ac-e58a-4151-8b17-8fa8bc76e525
 
 
 
