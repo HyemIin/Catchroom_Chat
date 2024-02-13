@@ -41,8 +41,6 @@ public class ChatService {
      * 채팅방에 메시지 발송
      */
     public void sendChatMessage(ChatMessageDto chatMessage, String accessToken) {
-        //TODO 이거 중복??아래에서 하지 않나?
-        chatRoomRedisRepository.setLastChatMessage(chatMessage.getRoomId(), chatMessage);
 
         Long userId = chatMessage.getUserId();
         Long partnerId;
