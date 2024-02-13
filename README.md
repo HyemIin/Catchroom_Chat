@@ -61,24 +61,16 @@
 ## 🛠️ 기술 스택
 #### Framework
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![springsecurity](https://img.shields.io/badge/springsecurity-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![springcloud](https://img.shields.io/badge/springcloud-6DB33F.svg?style=for-the-badge&logo=soundcloud&logoColor=white)
 
 #### DB
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Protocol & Message Queue
 ![Web Socket](https://img.shields.io/badge/websocket-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![STOMP](https://img.shields.io/badge/stomp-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)
 ![redis](https://img.shields.io/badge/redis_pub/sub-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-#### Library
-![JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![queryDSL](https://img.shields.io/badge/querydsl-0078D4.svg?style=for-the-badge&logo=polkadot&logoColor=white)
-![Lombok](https://img.shields.io/badge/lombok-E50005.svg?style=for-the-badge&logo=lospec&logoColor=white)
-![jwt](https://img.shields.io/badge/jwt-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 #### Communication
 ![notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -87,12 +79,9 @@
 
 #### Server
 ![ec2](https://img.shields.io/badge/AWS_EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
-![rds](https://img.shields.io/badge/AWS_rds-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white)
-![s3](https://img.shields.io/badge/AWS_S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
 ![route53](https://img.shields.io/badge/AWS_route53-8C4FFF.svg?style=for-the-badge&logo=amazonroute53&logoColor=white)
 ![loadBalancer](https://img.shields.io/badge/AWS_LB-8C4FFF.svg?style=for-the-badge&logo=awsorganizations&logoColor=white)
-![codeDeploy](https://img.shields.io/badge/AWS_codeDeploy-41AD48.svg?style=for-the-badge&logo=codeblocks&logoColor=white)
-![codeDeploy](https://img.shields.io/badge/AWS_elasticcache-4053D6.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS_elasticcache](https://img.shields.io/badge/AWS_elasticcache-4053D6.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
